@@ -1,0 +1,8 @@
+{"model": "Qwen2.5-1.5B-Instruct", "method": "fp16", "bits": 16, "group_size": 0, "size_gb": 3.087428608, "wikitext2_ppl": 10.797615179788615, "gsm8k_acc": 0.595, "gsm8k_n": 200, "quant_time_s": 0.0017325000371783972}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "rtn", "bits": 8, "group_size": -1, "size_gb": 1.779813376, "wikitext2_ppl": 10.803929453615192, "gsm8k_acc": 0.57, "gsm8k_n": 200, "quant_time_s": 1.4944751251023263}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "rtn", "bits": 4, "group_size": -1, "size_gb": 1.12471552, "wikitext2_ppl": 16.501974914674623, "gsm8k_acc": 0.33, "gsm8k_n": 200, "quant_time_s": 11.543592041940428}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "rtn", "bits": 4, "group_size": 128, "size_gb": 1.163078656, "wikitext2_ppl": 12.097718793182551, "gsm8k_acc": 0.45, "gsm8k_n": 200, "quant_time_s": 1.3730950420722365}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "rtn", "bits": 4, "group_size": 32, "size_gb": 1.285909504, "wikitext2_ppl": 11.602239413169382, "gsm8k_acc": 0.54, "gsm8k_n": 200, "quant_time_s": 1.6808883328922093}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "awq", "bits": 4, "group_size": 128, "size_gb": 1.163078656, "wikitext2_ppl": 11.830843949258032, "gsm8k_acc": 0.56, "gsm8k_n": 200, "quant_time_s": 124.43112245795783, "mean_alpha": 0.375}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "rtn", "bits": 3, "group_size": 128, "size_gb": 0.999304192, "wikitext2_ppl": 28.290509379758685, "gsm8k_acc": 0.015, "gsm8k_n": 200, "quant_time_s": 1.4617359160911292}
+{"model": "Qwen2.5-1.5B-Instruct", "method": "awq", "bits": 3, "group_size": 128, "size_gb": 0.999304192, "wikitext2_ppl": 16.8905659131815, "gsm8k_acc": 0.225, "gsm8k_n": 200, "quant_time_s": 53.33033487503417, "mean_alpha": 0.3765306122448979}
